@@ -11,8 +11,8 @@ Reading an entire book may be an arduous task, hence the main goal of this web a
 - Tech Stack: Next.js (learn SSR), TailWindCSS (just because I heard it)
 
 #### v1.0 Implementation
-- [ ] Next.js and Vercel App
-- [ ] TypeScript implementation
+- [x] Next.js and Vercel App
+- [x] TypeScript implementation
 - [ ] 10 cards of Hakagure, JSON file
 - [ ] Random card picker algorithm
 - [ ] UI for Cherry Blossoms
