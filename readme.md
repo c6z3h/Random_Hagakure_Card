@@ -5,7 +5,7 @@ Reading an entire book may be an arduous task, hence the main goal of this web a
 
 ## Implementation Plan
 #### Technical Design
-- Tabs: Hagakure, and Tao Te Ching
+- Tabs: Hagakure, Tao Te Ching, Quran
 - UI: Cherry Blossom Card, Yin Yang Card
 - API: Use original language (eg. Japanese for Hagakure), but link to Google Translate API (or similar)
 - Tech Stack: Next.js (learn SSR), TailWindCSS (just because I heard it)
